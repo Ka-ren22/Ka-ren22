@@ -1,5 +1,5 @@
 
-Hola a todos! Mi nombre es Karen Nahir Sosa
+Hola a todos! Mi nombre es Karen!
 
 🚀Me considero una persona apasionada por aprender y ayudar, creativa y detallista. Me interesé en la programación porque me gusta aprender sobre tecnologías y ciencias exactas, saber como funcionan determinados procesos para poder aplicarlos a la hora de resolver problemas que generen un impacto positivo en la sociedad.
 
@@ -17,19 +17,31 @@ Hola a todos! Mi nombre es Karen Nahir Sosa
 
 ✴️Mis  principales conocimientos técnicos son:
 ✅ HTML
+
 ✅CSS 
+
 ✅JavaSript 
+
 ✅React 
+
 ✅Redux
+
 ✅Express
+
 ✅SQL
+
 ✅Node.js
+
 ✅MongoDb
+
 ✅PostgrSQL
 
 ✴️Mis habilidades no técnicas son:
 
 ✅Comunicacion 
+
 ✅Capacidad de adaptacion al entorno
+
 ✅Trabajo en equipo
+
 ✅Responsabilidad y compromiso
