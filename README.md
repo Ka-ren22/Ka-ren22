@@ -13,9 +13,13 @@ Hola a todos! Mi nombre es Karen!
 
 🚀Actualmente me desarrollo como Data Entry en una empresa dedicada a la investigación de mercados.
 
-✴️Mi email de contacto es: nahir.k.sosa@gmail.com
+📝📝📝 Mi email de contacto es: nahir.k.sosa@gmail.com
 
-✴️Mis  principales conocimientos técnicos son:
+
+
+✴️✴️✴️Mis  principales conocimientos técnicos son:
+
+
 ✅ HTML
 
 ✅CSS 
@@ -36,7 +40,8 @@ Hola a todos! Mi nombre es Karen!
 
 ✅PostgrSQL
 
-✴️Mis habilidades no técnicas son:
+
+✴️✴️✴️Mis habilidades no técnicas son:
 
 ✅Comunicacion 
 
